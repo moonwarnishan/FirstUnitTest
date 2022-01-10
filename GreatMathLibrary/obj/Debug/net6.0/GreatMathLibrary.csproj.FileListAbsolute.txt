@@ -1,0 +1,13 @@
+D:\unit test\GreatMathLibrary\bin\Debug\net6.0\GreatMathLibrary.deps.json
+D:\unit test\GreatMathLibrary\bin\Debug\net6.0\GreatMathLibrary.dll
+D:\unit test\GreatMathLibrary\bin\Debug\net6.0\ref\GreatMathLibrary.dll
+D:\unit test\GreatMathLibrary\bin\Debug\net6.0\GreatMathLibrary.pdb
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\GreatMathLibrary.csproj.AssemblyReference.cache
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\GreatMathLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\GreatMathLibrary.AssemblyInfoInputs.cache
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\GreatMathLibrary.AssemblyInfo.cs
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\GreatMathLibrary.csproj.CoreCompileInputs.cache
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\GreatMathLibrary.dll
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\ref\GreatMathLibrary.dll
+D:\unit test\GreatMathLibrary\obj\Debug\net6.0\GreatMathLibrary.pdb
+D:\unit test\GreatMathLibrary\bin\Debug\net6.0\Numbers.txt

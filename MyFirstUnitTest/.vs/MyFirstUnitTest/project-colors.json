@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47b0f05b-19b6-4a43-9927-6938878a57ae": {
+      "ProjectGuid": "47b0f05b-19b6-4a43-9927-6938878a57ae",
+      "DisplayName": "MyFirstUnitTest",
+      "ColorIndex": 0
+    },
+    "dacaf0bb-d3ae-4bad-bcc4-cf3d60f328f3": {
+      "ProjectGuid": "dacaf0bb-d3ae-4bad-bcc4-cf3d60f328f3",
+      "DisplayName": "GreatMathLibrary",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
